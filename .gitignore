@@ -1,0 +1,19 @@
+# Node.js modules
+node_modules/
+
+# Yarn file
+yarn.lock
+
+# Work directory
+to_change_files
+
+# All images and documents
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.pdf
+*.doc
+*.docx
+*.xls
+*.xlsx

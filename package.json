@@ -1,0 +1,12 @@
+{
+    "name": "file-name-changer",
+    "version": "1.0.1",
+    "description": "Skrypt służący do zamiany nazw plików (pozbycie się polskich znaków oraz spacji).",
+    "main": "app.js",
+    "author": "Michał Milanowski",
+    "license": "MIT",
+    "dependencies": {
+        "fs-extra": "^2.1.2",
+        "recursive-readdir": "^2.1.1"
+    }
+}
