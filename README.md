@@ -21,7 +21,7 @@ $ npm install
 
 4. Run script
 ```bash
-$ npm start
+$ node app.js
 ```
 
 5. Script will create new directory, where files will be copied without polish diacritics and whitespaces.
